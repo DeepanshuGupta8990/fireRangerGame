@@ -1,5 +1,6 @@
 # Fire Ranger Game - https://graceful-nasturtium-db3da2.netlify.app/
 
+![Recording_2023-08-05_104959_AdobeExpress](https://github.com/DeepanshuGupta8990/fireRangerGame/assets/138364688/f51b45c6-ff1c-42a1-9496-6cd3f92cb5bd)
 
 
 A 2D game built using HTML, CSS, and Vanilla JavaScript. The Fire Ranger Game is an infinite game where you can play as long as you want. Your score will increase as you progress in the game.
